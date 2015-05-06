@@ -1,1 +1,7 @@
 /bin/
+/.settings/
+/.classpath
+/.project
+/framework.zip
+/README.md
+/.gitignore
